@@ -1,2 +1,2 @@
-Hello, world.
-Ruby
+*Git
+*Ruby
